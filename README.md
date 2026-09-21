@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mourine Emad
 
-### 📊 Junior Data Analyst | Turning Data into Insights
+### 📊 Data Analyst | Turning Data into Insights
 
 📍 Cairo, Egypt  
 📈 Passionate about Data Analysis, Business Intelligence, and Data Visualization.
@@ -11,7 +11,7 @@ I enjoy transforming raw and complex data into meaningful insights that help bus
 
 ## 🧠 About Me
 
-- 🎓 Junior Data Analyst focused on building practical data analysis skills
+- 🎓 Data Analyst focused on building practical data analysis skills
 - 📊 Interested in transforming data into actionable business insights
 - 🔎 Experienced in data cleaning, exploratory analysis, and KPI analysis
 - 📈 Building interactive dashboards and analytical reports
