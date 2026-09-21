@@ -59,21 +59,21 @@ I enjoy transforming raw and complex data into meaningful insights that help bus
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📊 Sales Analysis
+### 📊 Superstore Executive Sales & Profitability Dashboard
 
-**Tools:** `SQL` `Excel` `Power BI`
+**Tools:** `Power BI` `DAX` `Power Query` `Excel`
 
-A sales analysis project focused on understanding:
+An end-to-end retail business intelligence dashboard focused on analyzing:
 
-- 💰 Revenue performance
-- 📈 Sales trends
-- 📦 Product performance
-- 👥 Customer behavior
-- 🎯 Business KPIs
+* 💰 **Net Revenue & Profitability:** True net sales calculation factoring in returned orders ($180.50K impact).
+* 📈 **Time-Intelligence & Trends:** Tracking YoY growth (45.09%) and cumulative running totals.
+* 📦 **Product & Returns Diagnostics:** Evaluating category margin contributions and isolating high-return sub-categories.
+* 🗺️ **Regional & City Performance:** Geographical breakdown of sales, profitability, and discount exposure across regions.
+* 🎯 **Strategic Business Logic:** Custom DAX measures and classification tiers for risk and loss mitigation.
 
-🔗 **[View Project](#)**
+🔗 https://github.com/mourineemad/Superstore-executive-dashboard
 
 ---
 
@@ -89,7 +89,7 @@ An end-to-end analysis of e-commerce data to understand:
 - 💰 Revenue trends
 - 🎯 Key business metrics
 
-🔗 **[View Project](#)**
+🔗 **Project coming soon**
 
 ---
 
