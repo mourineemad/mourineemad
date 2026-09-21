@@ -120,28 +120,6 @@ Customer-focused analysis covering:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mourineemad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mourineemad&layout=compact&theme=tokyonight&hide_border=true"
-    width="40%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mourineemad&theme=tokyonight&hide_border=true"
-    width="70%"
-  />
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p>
