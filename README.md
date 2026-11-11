@@ -11,7 +11,7 @@ I enjoy transforming raw and complex data into meaningful insights that help bus
 
 ## 🧠 About Me
 
-- 🎓 Data Analyst focused on building practical data analysis skills
+- 🎓 Data Analyst building hands-on experience in data cleaning, EDA, and KPI analysis
 - 📊 Interested in transforming data into actionable business insights
 - 🔎 Experienced in data cleaning, exploratory analysis, and KPI analysis
 - 📈 Building interactive dashboards and analytical reports
@@ -58,55 +58,20 @@ I enjoy transforming raw and complex data into meaningful insights that help bus
 - 👥 Customer & Sales Analysis
 
 ---
-
 ## 🚀 Featured Projects
 
-### 📊 Superstore Executive Sales & Profitability Dashboard
-
-**Tools:** `Power BI` `DAX` `Power Query` `Excel`
-
-An end-to-end retail business intelligence dashboard focused on analyzing:
-
-* 💰 **Net Revenue & Profitability:** True net sales calculation factoring in returned orders ($180.50K impact).
-* 📈 **Time-Intelligence & Trends:** Tracking YoY growth (45.09%) and cumulative running totals.
-* 📦 **Product & Returns Diagnostics:** Evaluating category margin contributions and isolating high-return sub-categories.
-* 🗺️ **Regional & City Performance:** Geographical breakdown of sales, profitability, and discount exposure across regions.
-* 🎯 **Strategic Business Logic:** Custom DAX measures and classification tiers for risk and loss mitigation.
-
-🔗 https://github.com/mourineemad/Superstore-executive-dashboard
-
----
-
-## 🛒 E-Commerce Analysis
-
-**Tools:** `Python` `SQL` `Power BI` `Looker Studio`
-
-An end-to-end analysis of e-commerce data to understand:
-
-- 👥 Customer behavior
-- 📈 Sales performance
-- 📦 Product performance
-- 💰 Revenue trends
-- 🎯 Key business metrics
-
-🔗 **Project coming soon**
-
----
-
-## 👥 Customer Analysis
-
-**Tools:** `Python` `SQL` `Tableau` `Looker Studio`
-
-Customer-focused analysis covering:
-
-- 👤 Customer segmentation
-- 🔎 Customer behavior
-- 🛒 Purchase patterns
-- 📊 Customer performance
-- 💡 Business insights
-
-🔗 **Project coming soon**
-
+| Project | Tools | Link |
+|---|---|---|
+| 📊 Superstore Executive Sales & Profitability | Power BI · DAX · Power Query | [Repo](https://github.com/mourineemad/Superstore-executive-dashboard) |
+| ⚠️ Risk Management | Power BI · DAX · Power Query | [Repo](https://github.com/mourineemad/Risk-Management-Dashboard) |
+| 👥 HR Analytics | Power BI · DAX · Power Query | [Repo](https://github.com/mourineemad/HR-Analytics-Dashboard) |
+| ⚽ FIFA Analytics | Power BI · DAX · Power Query | [Repo](https://github.com/mourineemad/FIFA-Analytics-Dashboard) |
+| 🏠 Real Estate Sales Performance | Power BI · DAX · Power Query | [Repo](https://github.com/mourineemad/Real-Estate-Sales-Performance-Dashboard) |
+| 🌍 Global Overview | Power BI · DAX · Power Query | [Repo](https://github.com/mourineemad/Global-Overview-Dashboard) |
+| 🚗 inDrive | Power BI · DAX · Power Query | [Repo](https://github.com/mourineemad/In-Drive-Dashboard) |
+| 🛒 Carrefour | Power BI · DAX · Power Query | [Repo](https://github.com/mourineemad/Carrefour_Dashboard) |
+| 🧸 Toys Market — Sales & Profitability | Tableau | [Repo](https://github.com/mourineemad/Toys-Market-Dashboard) |
+| 🏥 Health Countries Records | Tableau | [Repo](https://github.com/mourineemad/Health-Countries-Records-Dashboard) |
 ---
 
 # 📚 Currently Learning
